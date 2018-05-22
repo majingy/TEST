@@ -1,0 +1,5 @@
+tests_loc:tests/CICS
+ignore:/cygdrive/c/Automation/
+debug_dir:
+interactive:True
+tests:1

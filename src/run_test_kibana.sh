@@ -1,0 +1,1 @@
+python3 TestSuiteMain.py test.txt
